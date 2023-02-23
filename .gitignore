@@ -1,0 +1,7 @@
+synthetic*
+transient*
+masks.npy
+.ipynb_checkpoints
+*_soma_list*.npy
+dend_list_lower.npy
+PDF_merger.ipynb
